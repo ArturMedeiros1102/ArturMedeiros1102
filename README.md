@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Artur de Medeiros, sou de São Paulo e atualmente curso Técnico em Desenvolvimento de Sistemas.</p>
+<p align="left">Meu nome é Artur de M, sou de São Paulo e atualmente curso Técnico em Desenvolvimento de Sistemas.</p>
 
 ###
 
